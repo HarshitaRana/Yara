@@ -1,0 +1,98 @@
+2020-08-19 01:44:05,692 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 02:20:42,438 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Deleting field: null
+2020-08-19 02:20:42,806 [http-nio-auto-1-exec-1] [ERROR] [FieldsAPI] 422 Unprocessable Entity: [{"name":"UnprocessableEntityError","message":"Invalid polygon_id"}]
+2020-08-19 02:20:42,888 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 02:20:43,028 [http-nio-auto-1-exec-2] [ERROR] [FieldsAPI] 401 Unauthorized: [{"cod":401, "message": "Invalid API key. Please see http://openweathermap.org/faq#error401 for more info."}]
+2020-08-19 02:20:43,048 [http-nio-auto-1-exec-3] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 02:20:44,309 [http-nio-auto-1-exec-4] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 02:20:44,316 [http-nio-auto-1-exec-4] [ERROR] [FieldsAPI] I/O error on PUT request for "http://api.agromonitoring.com/agro/1.0/polygons/null": Unexpected end of file from server; nested exception is java.net.SocketException: Unexpected end of file from server
+2020-08-19 02:20:44,334 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 02:20:44,615 [http-nio-auto-1-exec-5] [ERROR] [FieldsAPI] 401 Unauthorized: [no body]
+2020-08-19 02:28:00,388 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Deleting field: null
+2020-08-19 02:28:00,715 [http-nio-auto-1-exec-1] [ERROR] [FieldsAPI] 422 Unprocessable Entity: [{"name":"UnprocessableEntityError","message":"Invalid polygon_id"}]
+2020-08-19 02:28:00,796 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 02:28:00,981 [http-nio-auto-1-exec-3] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 02:28:02,216 [http-nio-auto-1-exec-4] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 02:28:02,349 [http-nio-auto-1-exec-4] [ERROR] [FieldsAPI] 400 Bad Request: [{"name":"Polygon New Name",}]
+2020-08-19 02:28:02,379 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 02:32:16,920 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Deleting field: null
+2020-08-19 02:32:17,244 [http-nio-auto-1-exec-1] [ERROR] [FieldsAPI] 422 Unprocessable Entity: [{"name":"UnprocessableEntityError","message":"Invalid polygon_id"}]
+2020-08-19 02:32:17,319 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 02:32:17,506 [http-nio-auto-1-exec-3] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 02:32:18,671 [http-nio-auto-1-exec-4] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 02:32:18,809 [http-nio-auto-1-exec-4] [ERROR] [FieldsAPI] 400 Bad Request: [{"name":"Polygon 8.960495390794607",}]
+2020-08-19 02:32:18,860 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 02:41:50,273 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 02:41:50,735 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Deleting field: 5f3c4416714b521ddbe0e8e9
+2020-08-19 02:41:50,964 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 02:41:51,176 [http-nio-auto-1-exec-3] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 02:41:52,307 [http-nio-auto-1-exec-4] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 02:41:52,485 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 13:50:49,755 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 13:50:50,556 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Deleting field: 5f3ce0e2714b52f49de0e92c
+2020-08-19 13:50:50,847 [http-nio-auto-1-exec-3] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 13:50:51,097 [http-nio-auto-1-exec-4] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 13:50:54,328 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 13:50:54,730 [http-nio-auto-1-exec-6] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 13:53:09,616 [http-nio-8080-exec-1] [INFO ] [FieldsAPI] Getting field Info:5f3c22ca714b5230cde0e8b8
+2020-08-19 13:53:17,259 [http-nio-8080-exec-4] [INFO ] [FieldsAPI] Getting all field info..
+2020-08-19 14:34:45,440 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:34:46,475 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Deleting field: 5f3ceb2e714b520ee4e0e931
+2020-08-19 14:34:46,788 [http-nio-auto-1-exec-3] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 14:34:47,023 [http-nio-auto-1-exec-4] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 14:34:49,864 [http-nio-auto-1-exec-4] [ERROR] [WeatherAPI] java.lang.Integer cannot be cast to java.lang.String
+2020-08-19 14:34:49,896 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 14:34:50,327 [http-nio-auto-1-exec-6] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:36:45,998 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:36:47,231 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Deleting field: 5f3ceba6714b523388e0e933
+2020-08-19 14:36:47,617 [http-nio-auto-1-exec-3] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 14:36:47,891 [http-nio-auto-1-exec-4] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 14:36:49,591 [http-nio-auto-1-exec-4] [ERROR] [WeatherAPI] java.lang.Integer cannot be cast to java.lang.String
+2020-08-19 14:36:49,616 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 14:36:50,038 [http-nio-auto-1-exec-6] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:39:57,115 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:39:57,845 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Deleting field: 5f3cec65714b527046e0e936
+2020-08-19 14:39:58,171 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 14:39:58,410 [http-nio-auto-1-exec-4] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 14:40:00,444 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 14:40:00,871 [http-nio-auto-1-exec-6] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:46:15,156 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:46:20,482 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Deleting field: 5f3cede4714b527be2e0e938
+2020-08-19 14:46:20,827 [http-nio-auto-1-exec-3] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 14:46:21,060 [http-nio-auto-1-exec-4] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 14:46:23,420 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 14:46:23,842 [http-nio-auto-1-exec-6] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:47:13,340 [http-nio-8080-exec-3] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 14:48:29,181 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:48:30,010 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Deleting field: 5f3cee65714b52aa8ee0e93a
+2020-08-19 14:48:30,297 [http-nio-auto-1-exec-3] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 14:48:30,522 [http-nio-auto-1-exec-4] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 14:48:32,279 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 14:48:32,690 [http-nio-auto-1-exec-6] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:51:12,575 [http-nio-8080-exec-2] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 14:51:23,569 [http-nio-8080-exec-3] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 14:52:49,052 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:52:49,800 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Deleting field: 5f3cef69714b5280abe0e93d
+2020-08-19 14:52:50,086 [http-nio-auto-1-exec-3] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 14:52:50,322 [http-nio-auto-1-exec-4] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 14:52:51,864 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 14:52:52,271 [http-nio-auto-1-exec-6] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 14:53:51,764 [http-nio-8080-exec-1] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 15:07:21,978 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 15:07:22,932 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Deleting field: 5f3cf2d2714b523425e0e93f
+2020-08-19 15:07:23,228 [http-nio-auto-1-exec-3] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 15:07:23,458 [http-nio-auto-1-exec-4] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 15:07:25,338 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 15:07:25,751 [http-nio-auto-1-exec-6] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 15:09:45,973 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 15:09:47,060 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Deleting field: 5f3cf362714b5240c1e0e941
+2020-08-19 15:09:47,364 [http-nio-auto-1-exec-3] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 15:09:47,635 [http-nio-auto-1-exec-4] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 15:09:49,770 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 15:09:50,277 [http-nio-auto-1-exec-9] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 15:28:53,281 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Creating a new field
+2020-08-19 15:28:54,008 [http-nio-auto-1-exec-1] [INFO ] [FieldsAPI] Deleting field: 5f3cf7dd714b5225e3e0e944
+2020-08-19 15:28:54,367 [http-nio-auto-1-exec-2] [INFO ] [FieldsAPI] Getting field Info:5f3ad61757ac6400073c8498
+2020-08-19 15:28:54,604 [http-nio-auto-1-exec-3] [INFO ] [WeatherAPI] Fetching weather info: 5f3ad61757ac6400073c8498
+2020-08-19 15:28:56,103 [http-nio-auto-1-exec-4] [INFO ] [FieldsAPI] Updating field Info: 5f3c368e714b52fee1e0e8da
+2020-08-19 15:28:56,504 [http-nio-auto-1-exec-5] [INFO ] [FieldsAPI] Creating a new field

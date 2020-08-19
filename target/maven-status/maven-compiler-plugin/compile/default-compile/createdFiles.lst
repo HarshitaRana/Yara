@@ -1,0 +1,7 @@
+com\yara\agro\service\FieldsService.class
+com\yara\agro\AgroApplication.class
+com\yara\agro\api\FieldsAPI.class
+com\yara\agro\api\WeatherAPI.class
+com\yara\agro\service\WeatherService.class
+com\yara\agro\AgroController.class
+com\yara\agro\exception\AgroMonitorException.class
